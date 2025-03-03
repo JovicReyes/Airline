@@ -17,7 +17,7 @@ tables = pd.read_sql("""SELECT *
                         FROM sqlite_master
                         WHERE type='table';""", conn)
 
-#distanze di volo per diversi modelli di aerei"
+#distanze di volo per diversi modelli di aerei
 sns.set_style('whitegrid')
 fig,axes = plt.subplots(figsize=(12,8))
 ax = sns.barplot(x='model',y='range', data=aircrafts_data, palette = 'Paired')
