@@ -1,8 +1,5 @@
 # 🛫Airline🛬
-Fattori come il ricavo totale, il ricavo medio per biglietto e l'occupazione media per aereo giocano un ruolo cruciale in questa analisi. 
-Identificando le aree di miglioramento, adattando le strategie di prezzo e ottimizzando le rotte, le compagnie aeree possono aumentare la loro redditività. 
-Tuttavia, è importante che le compagnie aeree considerino la soddisfazione dei consumatori e la sicurezza mentre cercano di ottenere profitti. 
-Bilanciare questi fattori è la chiave per il successo a lungo termine nel competitivo settore delle compagnie aeree.
+Le compagnie aeree forniscono da diversi anni un servizio di trasporto aereo di alta qualità ai propri clienti, garantendo un viaggio sicuro, confortevole e conveniente per i passeggeri. Tuttavia, attualmente riscontrano delle difficoltà a causa di vari fattori, come normative ambientali più rigide, tasse sui voli più elevate, tassi di interesse più alti, aumento dei prezzi del carburante e un mercato del lavoro ristretto che porta a costi salariali più elevati. Questi problemi mettono sotto pressione la redditività delle compagnie aeree. Per affrontare questa sfida, ho analizzato i loro database e identificato opportunità per aumentare il tasso di occupazione, così da incrementare il profitto medio guadagnato per ciascun posto.
 
 ## Dipendenze
 - Matplotlib
@@ -10,7 +7,7 @@ Bilanciare questi fattori è la chiave per il successo a lungo termine nel compe
 - Pandas
 - Seaborn
 
-## Istruzioni per l'uso
+## Istruzioni
 
 1. Installare dipendenze: ``pip install -r requirements.txt``
 2. Attivare ambiente virtuale (macOS): ``source venv/bin/activate`` 
